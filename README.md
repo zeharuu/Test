@@ -93,7 +93,7 @@ NutriNUS is structured around three layers:
 
 ### ERM Diagram  
 
-![ERM Diagram](assets/Orbitalflow.png)
+![ERM Diagram](assets/OrbitalFlow.png)
 
 
 ### Links to Poster and Video 
